@@ -10,6 +10,7 @@ Web Aplikasi Soal B
 
 # Usage
 
-Import SQL ke MySQL
-Clone the repo to your htdocs dir
-to log in on the app, use email k@gmail.com and password 123456
+1. Import SQL ke MySQL
+2. Clone the repo to your htdocs dir
+3. run the code
+4. to log in on the app, use email k@gmail.com and password 123456
